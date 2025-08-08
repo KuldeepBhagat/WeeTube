@@ -2,7 +2,6 @@ TARGET="$HOME/.local/share/applications/WeeTube.desktop"
 
 echo "Installing Youtube client to: $TARGET"
 
-
 mkdir -p "$(dirname "$TARGET")"
 
 cp app/WeeTube.desktop "$TARGET"

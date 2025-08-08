@@ -3,7 +3,7 @@ This is a standalone `.desktop` launcher for Youtube app using Chrome's app mode
 
 ## install
 ```bash 
-git clone git@github:KuldeepBhagat/WeeTube.git
+git clone git@github.com:KuldeepBhagat/WeeTube.git
 cd WeeTube
 chmod +x install.sh
 ./install.sh
