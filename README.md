@@ -1,5 +1,6 @@
 # YouTube Chrome Client 
-This is a standalone `.desktop` launcher for Youtube app using Chrome's app mode for wayland, Perfect for Native Youtube app in your arch linux
+This is a standalone `.desktop` launcher for the YouTube app, running in browser app mode on Wayland.
+Works with Chrome, Chromium, Brave, and other compatible browsers — perfect for a native-like YouTube experience on Arch Linux.
 
 ## install
 ```bash 
