@@ -14,3 +14,6 @@ chmod +x install.sh
 chmod +x uninstall.sh
 ./uninstall.sh
 ```
+
+## Note
+If you're in Wayland then change window rule for your browser otherwise every browser will have a forced centralized window
