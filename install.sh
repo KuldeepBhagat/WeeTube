@@ -4,7 +4,7 @@ echo "Installing Youtube client to: $TARGET"
 
 mkdir -p "$(dirname "$TARGET")"
 
-cp app/WeeTube.desktop "$TARGET"
+cp app/Chrome.desktop "$TARGET"
 
 chmod +x "$TARGET"
 

@@ -1,6 +1,0 @@
-[Desktop Entry]
-Name=WeeTube
-Exec=google-chrome-stable --user-data-dir=$HOME/.config/youtube-chrome-profile --class=YouTubeClient --app=https://www.youtube.com --new-window --ozone-platform=x11
-Terminal=false
-Type=Application
-Categories=Network
